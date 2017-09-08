@@ -1,0 +1,7 @@
+{
+    "name": "shahonseven/php-color-hash",
+    "description": "Generate color based on the given string. Backported from the Javascript library color-hash",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    }
+}
