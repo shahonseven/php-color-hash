@@ -7,7 +7,7 @@
  * Source: https://github.com/zenozeng/color-hash
  * Author: Zeno Zeng (MIT License)
  *
- * @package  color-hash
+ * @package  php-color-hash
  * @author   Shahril Abdullah - shahonseven
  */
 
