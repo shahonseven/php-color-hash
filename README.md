@@ -1,2 +1,2 @@
-# php-color-hash
-PHP Port of JS ColorHash
+# PHP Color Hash
+PHP Port of ColorHash Javascript Library
