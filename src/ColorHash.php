@@ -9,6 +9,7 @@
  *
  * @package  shahonseven/php-color-hash
  * @author   Shahril Abdullah - shahonseven
+ * @license  MIT License
  */
 
 namespace Shahonseven;
