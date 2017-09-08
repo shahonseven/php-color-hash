@@ -1,5 +1,5 @@
 # PHP Color Hash
-PHP Port of [ColorHash Javascript Library](https://github.com/zenozeng/color-hash)
+Generate color based on the given string. PHP Port of [ColorHash Javascript Library](https://github.com/zenozeng/color-hash). 
 
 ## Usage
 
