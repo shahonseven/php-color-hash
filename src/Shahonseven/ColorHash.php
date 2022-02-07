@@ -111,9 +111,9 @@ class ColorHash {
         $hash = $this->hash($str);
 
         $H = $hash % 359;
-        $hash = intval($hash / 360);
+        $hash = intval(ceil($hash / 360));
         $S = $this->S[$hash % count($this->S)];
-        $hash = intval($hash / count($this->S));
+        $hash = intval(ceil($hash / count($this->S)));
         $L = $this->L[$hash % count($this->L)];
 
         return [$H, $S, $L];
